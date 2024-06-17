@@ -16,4 +16,5 @@
 
 .name {
     font-size: 18px;
+    color: var(--corSecundaria);
 }
